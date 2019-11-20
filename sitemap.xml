@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qsctech-sange.github.io/jsDelivr.html</loc>
+    
+    <lastmod>2019-11-20T04:32:32.497Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qsctech-sange.github.io/gallery/index.html</loc>
     
     <lastmod>2019-11-06T10:51:15.214Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>https://qsctech-sange.github.io/arch-latex.html</loc>
     
     <lastmod>2019-09-17T05:19:24.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qsctech-sange.github.io/jsDelivr.html</loc>
-    
-    <lastmod>2019-09-16T06:12:38.550Z</lastmod>
     
   </url>
   
