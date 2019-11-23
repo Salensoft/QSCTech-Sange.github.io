@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qsctech-sange.github.io/upload-to-pypi.html</loc>
+    <lastmod>2019-11-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
+    <lastmod>2019-11-23</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/arch-on-Raspberrypi-2.html</loc>
     <lastmod>2019-11-22</lastmod>
   </url>  <url>
@@ -122,9 +128,6 @@
     <lastmod>2019-09-16</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1151-LCA-in-a-Binary-Tree.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1029-Median.html</loc>

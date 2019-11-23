@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qsctech-sange.github.io/upload-to-pypi.html</loc>
+    
+    <lastmod>2019-11-23T07:44:47.893Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
+    
+    <lastmod>2019-11-23T06:32:09.700Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qsctech-sange.github.io/arch-on-Raspberrypi-2.html</loc>
     
     <lastmod>2019-11-22T07:38:50.519Z</lastmod>
@@ -292,13 +306,6 @@
     <loc>https://qsctech-sange.github.io/1151-LCA-in-a-Binary-Tree.html</loc>
     
     <lastmod>2019-09-16T06:11:49.004Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
-    
-    <lastmod>2019-09-16T06:11:48.987Z</lastmod>
     
   </url>
   
