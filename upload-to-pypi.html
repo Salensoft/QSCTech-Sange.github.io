@@ -110,13 +110,13 @@ function activateLightMode(){
 <p>这样就生成了打包好的文件。</p>
 <h1 id="开始上传"><a class="markdownIt-Anchor" href="#开始上传"></a> 开始上传</h1>
 <p>首先需要<a href="https://pypi.org/account/register/" target="_blank" rel="noopener">Pypi</a>的帐号。如果只是玩一玩的话，可以用<a href="https://test.pypi.org/account/register/" target="_blank" rel="noopener">test.pypi</a>的账户，即测试账户。然后使用如下指令上传。</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python3 -m twine upload  dist/*</span><br></pre></td></tr></table></figure>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python3 -m twine upload dist/*</span><br></pre></td></tr></table></figure>
 <p>如果只是玩一玩的话，上传到test的网站上。</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python3 -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*</span><br></pre></td></tr></table></figure>
 <p>会提示输入用户名和密码。</p>
 <h1 id="更新"><a class="markdownIt-Anchor" href="#更新"></a> 更新</h1>
 <p>以后每次更新的时候，要删除<code>package_example</code>里的<code>build</code>和<code>dist</code>文件夹。然后重新执行</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">python3 setup.py sdist bdist_wheel</span><br><span class="line">twine upload dist/*</span><br></pre></td></tr></table></figure>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">python3 setup.py sdist bdist_wheel</span><br><span class="line">python3 -m twine upload dist/*</span><br></pre></td></tr></table></figure>
 <p>即可。</p>
 <h1 id="使用你的包"><a class="markdownIt-Anchor" href="#使用你的包"></a> 使用你的包</h1>
 <p>就像其他流行的包一样。你只需要<code>pip install XXX</code>就可以安装了！然后通过<code>import XXX</code>导入包。</p>
