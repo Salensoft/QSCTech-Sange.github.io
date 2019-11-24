@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qsctech-sange.github.io/arch-on-Raspberrypi-2.html</loc>
+    <lastmod>2019-11-24</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/option-price.html</loc>
     <lastmod>2019-11-23</lastmod>
   </url>  <url>
@@ -9,9 +12,6 @@
   </url>  <url>
     <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
     <lastmod>2019-11-23</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/arch-on-Raspberrypi-2.html</loc>
-    <lastmod>2019-11-22</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/anaconda-problems.html</loc>
     <lastmod>2019-11-21</lastmod>
