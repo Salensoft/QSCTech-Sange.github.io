@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qsctech-sange.github.io/about/index.html</loc>
+    
+    <lastmod>2020-01-02T11:46:45.840Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qsctech-sange.github.io/deepcopy-vs-swallowcopy.html</loc>
     
     <lastmod>2019-12-05T08:47:36.054Z</lastmod>
@@ -1573,13 +1580,6 @@
     <loc>https://qsctech-sange.github.io/link/index.html</loc>
     
     <lastmod>2019-09-01T06:14:47.465Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qsctech-sange.github.io/about/index.html</loc>
-    
-    <lastmod>2019-08-15T03:35:55.707Z</lastmod>
     
   </url>
   
