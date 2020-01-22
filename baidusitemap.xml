@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qsctech-sange.github.io/upload-to-pypi.html</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/deepcopy-vs-swallowcopy.html</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Python-study-methods.html</loc>
+    <lastmod>2020-01-22</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/LeetCode-1313.html</loc>
     <lastmod>2020-01-22</lastmod>
   </url>  <url>
@@ -16,17 +25,11 @@
     <loc>https://qsctech-sange.github.io/SAS-in-2019.html</loc>
     <lastmod>2020-01-03</lastmod>
   </url>  <url>
-    <loc>https://qsctech-sange.github.io/deepcopy-vs-swallowcopy.html</loc>
-    <lastmod>2019-12-05</lastmod>
-  </url>  <url>
     <loc>https://qsctech-sange.github.io/option-price.html</loc>
     <lastmod>2019-11-27</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/arch-on-Raspberrypi-2.html</loc>
     <lastmod>2019-11-24</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/upload-to-pypi.html</loc>
-    <lastmod>2019-11-23</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
     <lastmod>2019-11-23</lastmod>
@@ -584,9 +587,6 @@
     <lastmod>2019-09-16</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1051-Pop-Sequence.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/Python-study-methods.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/Information-cascade-with-NN.html</loc>
