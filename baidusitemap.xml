@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qsctech-sange.github.io/Python-1.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Python-catalog.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Python-tutorial.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/LeetCode-410.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Python-study-methods.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/nowadays.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/upload-to-pypi.html</loc>
     <lastmod>2020-01-22</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/deepcopy-vs-swallowcopy.html</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/Python-study-methods.html</loc>
     <lastmod>2020-01-22</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/LeetCode-1313.html</loc>
@@ -51,9 +66,6 @@
   </url>  <url>
     <loc>https://qsctech-sange.github.io/choosetutor.html</loc>
     <lastmod>2019-10-17</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/nowadays.html</loc>
-    <lastmod>2019-10-08</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/threeone.html</loc>
     <lastmod>2019-10-06</lastmod>
