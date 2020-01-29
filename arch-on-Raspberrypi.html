@@ -114,7 +114,7 @@ ga('send', 'pageview');
 <li>按<code>w</code>写入保存分区并退出fdisk.</li>
 <li>这一步完成以后，如果再使用<code>sudo fdisk -l</code>可以看到你的SD卡的配置应该类似这样。</li>
 </ol>
-<p><a href="/img/loading.gif" data-fancybox="group" data-caption="sd_info" class="fancybox"><img alt="sd_info" data-src="https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/sd_info" src="/img/loading.gif" class="lazyload" title="sd_info"></a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/sd_info" target="_blank" rel="noopener" data-fancybox="group" data-caption="sd_info" class="fancybox"><img alt="sd_info" title="sd_info" data-src="https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/sd_info" src="/img/loading.gif" class="lazyload"></a></p>
 <ol start="12">
 <li>格式化两个分区。使用<code>mkfs.vfat /dev/sdX1</code>和<code>mkfs.ext4 /dev/sdX2</code></li>
 <li>挂载分区。即相当于给SD卡的两个分区创建两个快捷方式到你的电脑里，这样在你的电脑里点击这两个文件夹就能直达SD卡的两个文件夹。<code>mkdir boot</code> 和 <code>mkdir root</code> 先创建两个空文件夹。然后使用<code>sudo mount /dev/sdX1 boot</code> 和<code>sudo mount /dev/sdX2 root</code>挂载。</li>
