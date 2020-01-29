@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qsctech-sange.github.io/KPMG-2020.html</loc>
+    <lastmod>2020-01-29</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/Chinese-Copywritting-Guidelines.html</loc>
+    <lastmod>2020-01-29</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/LeetCode-451.html</loc>
     <lastmod>2020-01-28</lastmod>
   </url>  <url>
@@ -121,13 +127,13 @@
     <loc>https://qsctech-sange.github.io/1101-Quick-Sort.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
-    <loc>https://qsctech-sange.github.io/1103-Integer-Factorization.html</loc>
-    <lastmod>2020-01-25</lastmod>
-  </url>  <url>
     <loc>https://qsctech-sange.github.io/1128-N-Queens-Puzzle.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1141-PAT-Ranking-of-Institutions.html</loc>
+    <lastmod>2020-01-25</lastmod>
+  </url>  <url>
+    <loc>https://qsctech-sange.github.io/1103-Integer-Factorization.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/Options-Calculator.html</loc>
@@ -175,6 +181,9 @@
     <loc>https://qsctech-sange.github.io/1036-Boys-vs-Girls.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
+    <loc>https://qsctech-sange.github.io/1043-Is-It-a-Binary-Search-Tree.html</loc>
+    <lastmod>2020-01-25</lastmod>
+  </url>  <url>
     <loc>https://qsctech-sange.github.io/1049-Counting-Ones.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
@@ -185,9 +194,6 @@
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1059-Prime-Factors.html</loc>
-    <lastmod>2020-01-25</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/1043-Is-It-a-Binary-Search-Tree.html</loc>
     <lastmod>2020-01-25</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/1079-Total-Sales-of-Supply-Chain.html</loc>
@@ -288,9 +294,6 @@
   </url>  <url>
     <loc>https://qsctech-sange.github.io/4-%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.html</loc>
     <lastmod>2020-01-21</lastmod>
-  </url>  <url>
-    <loc>https://qsctech-sange.github.io/Chinese-Copywritting-Guidelines.html</loc>
-    <lastmod>2020-01-18</lastmod>
   </url>  <url>
     <loc>https://qsctech-sange.github.io/SAS-in-2019.html</loc>
     <lastmod>2020-01-03</lastmod>
