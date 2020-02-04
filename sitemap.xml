@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qsctech-sange.github.io/leetcode-preface.html</loc>
+    
+    <lastmod>2020-02-04T06:58:40.228Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qsctech-sange.github.io/LeetCode-812.html</loc>
     
     <lastmod>2020-02-03T07:50:08.563Z</lastmod>
@@ -1013,13 +1020,6 @@
     <loc>https://qsctech-sange.github.io/Android-Fragment.html</loc>
     
     <lastmod>2019-09-16T06:11:48.770Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qsctech-sange.github.io/leetcode-preface.html</loc>
-    
-    <lastmod>2019-09-16T06:11:48.760Z</lastmod>
     
   </url>
   
